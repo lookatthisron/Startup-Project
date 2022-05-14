@@ -1,0 +1,38 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+     /* fallback */
+  background-image: -webkit-radial-gradient(circle, #f7e8f6, #ae9aa5, #dcedc2);
+  background-position: center center;
+  background-repeat: no-repeat;
+  margin: 9px;
+}
+
+h1 {
+    font-family: 'Rubik Microbe', cursive;
+}
+
+h5, h6, button {
+    font-family: 'Raleway Dots', cursive;
+
+}
+
+h6 {
+   color: #8FB05E; 
+}
+
+hr {
+    display: none;
+}
+
+.container {
+    height: 100%;
+}
+
